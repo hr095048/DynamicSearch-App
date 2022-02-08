@@ -1,0 +1,10 @@
+insert into Insurance_Plans (Plan_Id,Plan_Name,Holder_Name,Holder_SSN,Plan_Status) values (101,'SNAP','JOHN',123456,'APPROVED');
+insert into Insurance_Plans (Plan_Id,Plan_Name,Holder_Name,Holder_SSN,Plan_Status) values (102,'SNAP','KHAN',223456,'DENIED');
+insert into Insurance_Plans (Plan_Id,Plan_Name,Holder_Name,Holder_SSN,Plan_Status) values (103,'CCAP','ANDY',323456,'APPROVED');
+insert into Insurance_Plans (Plan_Id,Plan_Name,Holder_Name,Holder_SSN,Plan_Status) values (104,'CCAP','SANDY',423456,'DENIED');
+insert into Insurance_Plans (Plan_Id,Plan_Name,Holder_Name,Holder_SSN,Plan_Status) values (105,'QHP','MILLER',523456,'APPROVED');
+insert into Insurance_Plans (Plan_Id,Plan_Name,Holder_Name,Holder_SSN,Plan_Status) values (106,'QHP','DAVID',623456,'DENIED');
+insert into Insurance_Plans (Plan_Id,Plan_Name,Holder_Name,Holder_SSN,Plan_Status) values (107,'SNAP','ABRAHAM',723456,'APPROVED');
+insert into Insurance_Plans (Plan_Id,Plan_Name,Holder_Name,Holder_SSN,Plan_Status) values (108,'CCAP','BUTLER',823456,'TERMINATED');
+insert into Insurance_Plans (Plan_Id,Plan_Name,Holder_Name,Holder_SSN,Plan_Status) values (109,'QHP','WAENER',923456,'APPROVED');
+insert into Insurance_Plans (Plan_Id,Plan_Name,Holder_Name,Holder_SSN,Plan_Status) values (110,'SNAP','JOSH',1023456,'TERMINATED');
